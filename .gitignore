@@ -34,3 +34,4 @@ vignettes/*.pdf
 
 # Desktop Services Store
 .DS_Store
+.Rproj.user
